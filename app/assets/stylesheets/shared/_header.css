@@ -1,0 +1,40 @@
+.header-link {
+  font-size:30px;
+  font-weight:bold;
+  padding:20px 0 5px 30px;
+}
+
+.header-link {
+ text-decoration: none;
+}
+
+.header_menu_container_menu-list {
+  display: flex;
+  justify-content: space-around;
+  background-color:#009bc6;
+  list-style: none;
+  height: 50px;
+  align-items: center;
+  font-family: Noto, Hiragino Sans,Helvetica,Arial,sans-serif;
+  font-size: 20px;
+}
+
+.header_menu_container_menu-home {
+  text-decoration: none;
+  color:#ffffff;
+}
+
+.header_menu_container_menu-about {
+  text-decoration: none;
+  color:#ffffff;
+}
+
+.header_menu_container_menu-privacy {
+  text-decoration: none;
+  color:#ffffff;
+}
+
+.header_menu_container_menu-contact {
+  text-decoration: none;
+  color:#ffffff;
+}

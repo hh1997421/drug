@@ -1,0 +1,8 @@
+Product.create(status:'足のつり', name:'芍薬甘草湯', price:'1500', explain:'即効性抜群!', information:'https://www.kracie.co.jp/ph/k-therapy/product/package/c_cramp.html')
+Product.create(status:'胃腸', name:'半夏瀉心湯', price:'1000', explain:'神経質な方におすすめ', information:'https://www.kracie.co.jp/ph/k-therapy/product/package/c_stomach.html?_ga=2.167568638.1360220208.1604898102-100837335.1603968146#rikkunsito')
+Product.create(status:'お通じ', name:'麻子仁丸', price:'2000', explain:'滑りを良くしてくれる', information:'https://www.kracie.co.jp/ph/k-therapy/product/package/c_constipation.html?_ga=2.65848558.1360220208.1604898102-100837335.1603968146#mashiningan')
+Product.create(status:'頭痛', name:'呉茱萸湯', price:'2000', explain:'偏頭痛の方にも', information:'https://www.kracie.co.jp/ph/k-therapy/product/symptom/headache/?_ga=2.125617226.1360220208.1604898102-100837335.1603968146')
+Product.create(status:'ストレス', name:'半夏厚朴湯', price:'3000', explain:'落ち着く', information:'https://www.kracie.co.jp/ph/k-therapy/product/symptom/stress/?_ga=2.125617226.1360220208.1604898102-100837335.1603968146')
+Product.create(status:'肌トラブル', name:'黄連解毒湯', price:'1000', explain:'赤みが気になる方に', information:'https://www.kracie.co.jp/ph/k-therapy/product/symptom/skin/?_ga=2.129959116.1360220208.1604898102-100837335.1603968146')
+Product.create(status:'鼻炎', name:'小青竜湯', price:'1000', explain:'透明な鼻水が出る', information:'https://www.kracie.co.jp/ph/k-therapy/product/symptom/skin/?_ga=2.129959116.1360220208.1604898102-100837335.1603968146')
+Product.create(status:'風邪', name:'葛根湯', price:'1000', explain:'引きはじめに', information:'https://www.tsumura.co.jp/kampo/list/detail/001.html')

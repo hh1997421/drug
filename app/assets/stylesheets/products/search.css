@@ -1,0 +1,11 @@
+.result-main {
+  display: flex;
+}
+
+.header-link {
+  text-decoration: none;
+ }
+
+.li {
+  justify-content: space-between;
+}
